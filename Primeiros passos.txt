@@ -3,3 +3,7 @@ jonny anderson lucena santos
 Dados pessoais
 CPF
 E-mail
+Endereço
+Rua:
+cep:
+n:
